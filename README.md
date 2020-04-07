@@ -1,1 +1,8 @@
-NodeJS
+# NodeJS
+
+## Setup
+```bash
+sudo apt-get install nodejs
+sudo apt-get install npm
+
+```
